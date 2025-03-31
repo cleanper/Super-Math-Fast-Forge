@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "superfastmath",
+    "name": "Super Fast Math",
+    "description": "A mod to provide fast mathematical functions using precomputed tables.",
+    "version": "0.0.3",
+    "mcversion": "1.20.1",
+    "logoFile": "icon.png",
+    "credits": "YL",
+    "authors": ["YL"],
+    "url": "",
+    "screenshots": [],
+    "dependencies": [],
+    "parent": ""
+  }
+]
